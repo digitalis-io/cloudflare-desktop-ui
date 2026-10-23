@@ -31,3 +31,10 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+
+# Flutter
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+*.iml
